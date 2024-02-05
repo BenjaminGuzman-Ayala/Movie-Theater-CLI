@@ -1,5 +1,4 @@
 # ruby-cli-template
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
+This is a movie-theater CLI used to add movies to a movie theater
 - Ruby version: `3.2.1`
